@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #23424a;
+  color: #fff;
+}
+
+.header-parent {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 5em;
+}
+
+.header-child {
+  width: 50%;
+}
+
+.content-parent {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 5em;
+}
